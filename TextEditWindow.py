@@ -1,3 +1,6 @@
+import tkinter as tk
+
+
 class TextEditWindow(tk.Toplevel):
     def __init__(self, parent):
         self.note = note
